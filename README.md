@@ -39,7 +39,7 @@ This project is a web application built using Flask that forecasts store sales b
     ```
 
 ## Usage
-1. Navigate to `http://127.0.0.1:5000` in your web browser.
+1. Navigate to `http://127.0.0.1:80` in your web browser.
 2. View the forecasted sales and model performance metrics.
 
 ## Models
