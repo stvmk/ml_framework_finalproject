@@ -50,3 +50,9 @@ This project is a web application built using Flask that forecasts store sales b
 
 ## Data
 The dataset used for this project is from the [Walmart Recruiting](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data) - Store Sales Forecasting competition on Kaggle. It includes historical sales data for 45 Walmart stores located in different regions.
+
+## Contributers
+- **Steve Kuruvilla**: 200573392
+- **Shrasth Kumar**: 200566998
+- **Sai Manoj Mekapati**: 200565197
+- **Tavleen Kaur**: 200573180
