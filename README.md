@@ -41,9 +41,7 @@ This project is a web application built using Flask that forecasts store sales b
 
 ## Usage
 1. Navigate to `http://127.0.0.1:5000` in your web browser.
-2. Upload the sales data file.
-3. Select the machine learning model to use for forecasting.
-4. View the forecasted sales and model performance metrics.
+2. View the forecasted sales and model performance metrics.
 
 ## Models
 - **Linear Regression**: A simple linear approach to modeling the relationship between the dependent and independent variables.
