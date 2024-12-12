@@ -13,7 +13,7 @@ This project is a web application built using Flask that forecasts store sales b
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/stvmk/walmart-sales-forecasting.git
+    git clone https://github.com/stvmk/ml_framework_finalproject.git
     cd walmart-sales-forecasting
     ```
 
