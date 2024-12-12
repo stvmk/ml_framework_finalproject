@@ -11,7 +11,7 @@ This project is a web application built using Flask that forecasts store sales b
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/walmart-sales-forecasting.git
+    git clone https://github.com/stvmk/walmart-sales-forecasting.git
     cd walmart-sales-forecasting
     ```
 
@@ -49,17 +49,4 @@ This project is a web application built using Flask that forecasts store sales b
 - **K-Nearest Neighbors (KNN)**: A non-parametric method used for classification and regression.
 
 ## Data
-The dataset used for this project is from the Walmart Recruiting - Store Sales Forecasting competition on Kaggle. It includes historical sales data for 45 Walmart stores located in different regions.
-
-## Contributing
-We welcome contributions! Please fork the repository and submit a pull request with your changes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgements
-- Kaggle for providing the dataset.
-- The Flask community for their excellent documentation and support.
-
-## Contact
-For any questions or suggestions, please contact us at [your-email@example.com].
+The dataset used for this project is from the [Walmart Recruiting](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data) - Store Sales Forecasting competition on Kaggle. It includes historical sales data for 45 Walmart stores located in different regions.
