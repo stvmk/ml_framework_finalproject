@@ -1,4 +1,3 @@
-```markdown
 # Walmart Store Sales Forecasting Web App
 
 ## Overview
@@ -52,4 +51,15 @@ This project is a web application built using Flask that forecasts store sales b
 ## Data
 The dataset used for this project is from the Walmart Recruiting - Store Sales Forecasting competition on Kaggle. It includes historical sales data for 45 Walmart stores located in different regions.
 
-```
+## Contributing
+We welcome contributions! Please fork the repository and submit a pull request with your changes.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+- Kaggle for providing the dataset.
+- The Flask community for their excellent documentation and support.
+
+## Contact
+For any questions or suggestions, please contact us at [your-email@example.com].
