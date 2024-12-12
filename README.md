@@ -1,6 +1,6 @@
 # Walmart Store Sales Forecasting Web App
 
-- The project has been hosted on a web server and can be viewed by visiting : http://stvmk.com/
+- This project has been hosted on a web server and can be viewed at : http://stvmk.com/
 
 ## Overview
 This project is a web application built using Flask that forecasts store sales based on historical data from the Walmart Recruiting - Store Sales Forecasting competition on Kaggle. We implemented machine learning models such as Linear Regression, Random Forest, and K-Nearest Neighbors (KNN) to predict future sales.
