@@ -1,0 +1,70 @@
+<h1>Project Charter</h1>
+<p>
+    Our team seeks to address a critical challenge faced by Walmart: accurately forecasting weekly store sales.
+    Accurate sales predictions are essential for large retailers like Walmart to streamline inventory management,
+    maintain optimal stock levels, and enhance customer satisfaction. However, fluctuating consumer demand, seasonal
+    variations, and external factors such as holidays and promotional campaigns add complexity to the forecasting
+    process.
+</p>
+<p>
+    This project aims to utilize historical sales data to develop a robust machine learning model capable of
+    providing precise sales forecasts. Throughout the project, we will systematically apply key data science
+    methodologies, including data preprocessing, exploratory analysis, model development, and deployment. By the
+    project's conclusion, we aim not only to deliver actionable insights tailored to Walmart's operational needs but
+    also to deepen our expertise in the practical application of machine learning within the retail sector.
+
+
+</p>
+<p>
+
+<h2>Objective</h2>
+<p>
+    The objective of this project is to define and solve the problem of inaccurate sales forecasting for Walmart. By
+    building a robust machine learning model, we aim to:
+</p>
+<ul>
+    <li>Analyze historical sales data to uncover patterns and trends that drive weekly sales variability.</li>
+    <li>Develop a data-driven approach to improve sales predictions at store and department levels.</li>
+    <li>Provide actionable insights that Walmart can use to optimize inventory management and operational planning.
+    </li>
+</ul>
+
+<h2>Scope</h2>
+<ul>
+    <li><strong>In Scope:</strong> Data cleaning, EDA, model training and evaluation, and deployment.</li>
+    <li><strong>Out of Scope:</strong> Real-world operational implementation and logistics planning.</li>
+</ul>
+
+<h2>Deliverables</h2>
+<ul>
+    <li>Proposal document outlining objectives and approach.</li>
+    <li>Cleaned and preprocessed dataset.</li>
+    <li>EDA report with visualizations and insights.</li>
+    <li>Trained machine learning model with performance metrics.</li>
+    <li>Deployed model through a REST API.</li>
+    <li>Final project presentation summarizing results.</li>
+</ul>
+
+<h2>Stakeholders</h2>
+<ul>
+    <li><strong>Professor:</strong> Ethan Davis.</li>
+    <li><strong>Group Members:</strong> Sai Manoj Mekapati, Shrasth Kumar, Steve Kuruvilla, and Tavleen Kaur.</li>
+</ul>
+
+<h2>Risk Management</h2>
+<ul>
+    <li><strong>Risk:</strong> Dataset issues (missing values, duplicates). <strong>Mitigation:</strong> Thorough
+        data cleaning and validation.</li>
+    <li><strong>Risk:</strong> Model underperformance. <strong>Mitigation:</strong> Experiment with multiple
+        algorithms and tuning techniques.</li>
+    <li><strong>Risk:</strong> Deployment challenges. <strong>Mitigation:</strong> Simplify the API setup using
+        Flask and test extensively.</li>
+</ul>
+
+<h2>Assumptions and Constraints</h2>
+<ul>
+    <li><strong>Assumptions:</strong> Dataset is comprehensive and accurate.</li>
+    <li><strong>Constraints:</strong> Limited time and computational resources.</li>
+</ul>
+
+<br><br><br><br><br><br><br><br>

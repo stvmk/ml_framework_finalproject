@@ -1,0 +1,39 @@
+<h1> Predictions </h1>
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="{{ url_for('static', filename='images/1.png') }}" alt="Image 1">
+        <p>The Linear Regression model shows significant deviations from the actual sales data, particularly during spikes. This indicates underfitting, as the model is too simplistic to capture the complex, non-linear trends in the data.</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ url_for('static', filename='images/2.png') }}" alt="Image 2">
+        <p>The Random Forest model aligns better with the actual sales trends, capturing some of the variability while smoothing out extreme outliers. This suggests improved performance, with less underfitting compared to Linear Regression, but still not perfect for high-variance data.</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ url_for('static', filename='images/3.png') }}" alt="Image 3">
+        <p>The KNN model closely matches the actual sales data, effectively capturing both trends and outliers. While this shows strong performance, the close fit hints at possible overfitting, especially if the model is too sensitive to noise.</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ url_for('static', filename='images/4.png') }}" alt="Image 4">
+        <p>The MSE comparison highlights KNN as the best-performing model with the lowest error, followed by Random Forest and then Linear Regression. This confirms that KNN captures the data patterns most effectively, while Linear Regression struggles significantly due to underfitting.</p>
+    </div>
+</div>
+<h1> After Applying Hyperparameter Tuning </h1>
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="{{ url_for('static', filename='images/9.png') }}" alt="Image 1">
+        <p>Explanation 1</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ url_for('static', filename='images/10.png') }}" alt="Image 2">
+        <p>Explanation 2</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ url_for('static', filename='images/11.png') }}" alt="Image 3">
+        <p>Explanation 3</p>
+    </div>
+    <div class="grid-item">
+        <img src="{{ url_for('static', filename='images/12.png') }}" alt="Image 4">
+        <p>Explanation 4</p>
+    </div>
+</div>
+<br><br><br><br><br><br><br><br>
